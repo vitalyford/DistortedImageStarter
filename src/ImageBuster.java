@@ -9,7 +9,7 @@ import java.awt.Color;
  * How-to:
  * The Green and Blue components of the input image are random noise.
  * To decode the input image, get rid of the Green and Blue components.
- * Then, multiply the Red component of pixels by 5 and save the image.
+ * Then, multiply the Red component of pixels by 10 and save the image.
  * 
  * Helpful notes:
  * SimpleImage class encapsulates the complexity of working with
