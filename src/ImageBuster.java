@@ -39,11 +39,11 @@ import java.awt.Color;
  */
 public class ImageBuster {
 
-	public static void main(String[] args) {
-		/**
-		 * Insert your code here
-		 */
+    public static void main(String[] args) {
+        /**
+        * Insert your code here
+        */
 		
-	}
+    }
 
 }
